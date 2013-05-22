@@ -1,4 +1,4 @@
 gmockplus
 =========
 
-A mock framework which is more powerful than google mock.
+A mocking framework which is more powerful than google mock.
